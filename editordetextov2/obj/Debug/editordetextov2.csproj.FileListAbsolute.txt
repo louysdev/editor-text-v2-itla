@@ -1,0 +1,33 @@
+C:\Users\yoque\OneDrive\Escritorio\editor de texto v2\editordetextov2\editordetextov2\bin\Debug\editordetextov2.exe.config
+C:\Users\yoque\OneDrive\Escritorio\editor de texto v2\editordetextov2\editordetextov2\bin\Debug\editordetextov2.exe
+C:\Users\yoque\OneDrive\Escritorio\editor de texto v2\editordetextov2\editordetextov2\bin\Debug\editordetextov2.pdb
+C:\Users\yoque\OneDrive\Escritorio\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.AssemblyReference.cache
+C:\Users\yoque\OneDrive\Escritorio\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yoque\OneDrive\Escritorio\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.Form1.resources
+C:\Users\yoque\OneDrive\Escritorio\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.Properties.Resources.resources
+C:\Users\yoque\OneDrive\Escritorio\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.GenerateResource.cache
+C:\Users\yoque\OneDrive\Escritorio\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.CoreCompileInputs.cache
+C:\Users\yoque\OneDrive\Escritorio\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.exe
+C:\Users\yoque\OneDrive\Escritorio\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.pdb
+C:\Users\Juanito.Pz\Desktop\editor de texto v2\editordetextov2\editordetextov2\bin\Debug\editordetextov2.exe.config
+C:\Users\Juanito.Pz\Desktop\editor de texto v2\editordetextov2\editordetextov2\bin\Debug\editordetextov2.exe
+C:\Users\Juanito.Pz\Desktop\editor de texto v2\editordetextov2\editordetextov2\bin\Debug\editordetextov2.pdb
+C:\Users\Juanito.Pz\Desktop\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.AssemblyReference.cache
+C:\Users\Juanito.Pz\Desktop\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juanito.Pz\Desktop\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.Form1.resources
+C:\Users\Juanito.Pz\Desktop\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.Properties.Resources.resources
+C:\Users\Juanito.Pz\Desktop\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.GenerateResource.cache
+C:\Users\Juanito.Pz\Desktop\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.CoreCompileInputs.cache
+C:\Users\Juanito.Pz\Desktop\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.exe
+C:\Users\Juanito.Pz\Desktop\editor de texto v2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.pdb
+C:\Users\Juanito.Pz\Desktop\editordetextov2\editordetextov2\editordetextov2\bin\Debug\Notepad.exe.config
+C:\Users\Juanito.Pz\Desktop\editordetextov2\editordetextov2\editordetextov2\bin\Debug\Notepad.exe
+C:\Users\Juanito.Pz\Desktop\editordetextov2\editordetextov2\editordetextov2\bin\Debug\Notepad.pdb
+C:\Users\Juanito.Pz\Desktop\editordetextov2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.AssemblyReference.cache
+C:\Users\Juanito.Pz\Desktop\editordetextov2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juanito.Pz\Desktop\editordetextov2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.Form1.resources
+C:\Users\Juanito.Pz\Desktop\editordetextov2\editordetextov2\editordetextov2\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Juanito.Pz\Desktop\editordetextov2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.GenerateResource.cache
+C:\Users\Juanito.Pz\Desktop\editordetextov2\editordetextov2\editordetextov2\obj\Debug\editordetextov2.csproj.CoreCompileInputs.cache
+C:\Users\Juanito.Pz\Desktop\editordetextov2\editordetextov2\editordetextov2\obj\Debug\Notepad.exe
+C:\Users\Juanito.Pz\Desktop\editordetextov2\editordetextov2\editordetextov2\obj\Debug\Notepad.pdb
